@@ -10,6 +10,7 @@ function App() {
   useEffect(() => {
     async function loadGroups() {
       const { data } = await api.get();
+      document.querySelector('span.loading').remove();
       setGroups(data.grupos);
     }
     loadGroups();
@@ -19,13 +20,16 @@ function App() {
     <>
       <header className="header">
         <h1>Grupos Whatsapp IFCE Maracanaú</h1>
-        <a>+ Adicionar Grupo</a>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfnPOnwHotoejvwan5V6dSumodFRZ3O9tt3gKEd0qPcwyQjtg/viewform" target="_blank">+ Adicionar Grupo</a>
       </header>
-      <ul className="container">
-        {groups.forEach((g, index) => (
-          <Card imagem={g.imgUrl} nome={g.nome} a={g.gUrl} index={index} />
-        ))}
-      </ul>
+      <div className="container">
+        <span className="loading">Carregando...</span>
+        <div className="card-list">
+          {groups.map(g =>
+            <Card key={g.key} imagem={g.imgUrl} nome={g.nome} a={g.gUrl} />
+          )}
+        </div>
+      </div>
     </>
   );
 }
