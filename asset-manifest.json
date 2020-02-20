@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/groupsifce/static/css/main.c2881ef7.chunk.css",
+    "main.js": "/groupsifce/static/js/main.bcfb063b.chunk.js",
+    "main.js.map": "/groupsifce/static/js/main.bcfb063b.chunk.js.map",
+    "runtime-main.js": "/groupsifce/static/js/runtime-main.5e0ada5d.js",
+    "runtime-main.js.map": "/groupsifce/static/js/runtime-main.5e0ada5d.js.map",
+    "static/js/2.6e8bf58b.chunk.js": "/groupsifce/static/js/2.6e8bf58b.chunk.js",
+    "static/js/2.6e8bf58b.chunk.js.map": "/groupsifce/static/js/2.6e8bf58b.chunk.js.map",
+    "index.html": "/groupsifce/index.html",
+    "precache-manifest.9eea4daa518e5bb8ff228f2b575e59e3.js": "/groupsifce/precache-manifest.9eea4daa518e5bb8ff228f2b575e59e3.js",
+    "service-worker.js": "/groupsifce/service-worker.js",
+    "static/css/main.c2881ef7.chunk.css.map": "/groupsifce/static/css/main.c2881ef7.chunk.css.map",
+    "static/js/2.6e8bf58b.chunk.js.LICENSE.txt": "/groupsifce/static/js/2.6e8bf58b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/groupsifce/static/media/background.0bf28038.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e0ada5d.js",
+    "static/js/2.6e8bf58b.chunk.js",
+    "static/css/main.c2881ef7.chunk.css",
+    "static/js/main.bcfb063b.chunk.js"
+  ]
+}
