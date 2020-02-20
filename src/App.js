@@ -17,7 +17,7 @@ function App() {
   }, []);
 
   return (
-    <>
+    <main>
       <header className="header">
         <h1>Grupos Whatsapp IFCE Maracanaú</h1>
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSfnPOnwHotoejvwan5V6dSumodFRZ3O9tt3gKEd0qPcwyQjtg/viewform" target="_blank">+ Adicionar Grupo</a>
@@ -30,7 +30,14 @@ function App() {
           )}
         </div>
       </div>
-    </>
+      <footer className="footer">
+        <span>Desenvolvido por Emanuel Douglas</span>
+        <a href="https://github.com/emanueldsc">
+          <img src={require("./assets/github.png")} alt="github" />
+          <span>Github</span>
+        </a>
+      </footer>
+    </main>
   );
 }
 
