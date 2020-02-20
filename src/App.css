@@ -67,7 +67,7 @@ main {
 div.card-list {
   list-style: none;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   flex-wrap: wrap;
 }
 
