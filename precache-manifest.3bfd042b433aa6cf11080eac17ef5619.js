@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3f45707dc300dd01331a7d26d3b08bec",
+    "revision": "d2d8763b8985112e51cebdddbe8b8ef6",
     "url": "/groupsifce/index.html"
   },
   {
