@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/groupsifce/static/css/main.c2881ef7.chunk.css",
+    "main.css": "/groupsifce/static/css/main.ccbb9a93.chunk.css",
     "main.js": "/groupsifce/static/js/main.bcfb063b.chunk.js",
     "main.js.map": "/groupsifce/static/js/main.bcfb063b.chunk.js.map",
     "runtime-main.js": "/groupsifce/static/js/runtime-main.5e0ada5d.js",
@@ -8,16 +8,16 @@
     "static/js/2.6e8bf58b.chunk.js": "/groupsifce/static/js/2.6e8bf58b.chunk.js",
     "static/js/2.6e8bf58b.chunk.js.map": "/groupsifce/static/js/2.6e8bf58b.chunk.js.map",
     "index.html": "/groupsifce/index.html",
-    "precache-manifest.ba683e6c5524adf51589b46795b307e5.js": "/groupsifce/precache-manifest.ba683e6c5524adf51589b46795b307e5.js",
+    "precache-manifest.6e6badb80e238769c91e034666aa2899.js": "/groupsifce/precache-manifest.6e6badb80e238769c91e034666aa2899.js",
     "service-worker.js": "/groupsifce/service-worker.js",
-    "static/css/main.c2881ef7.chunk.css.map": "/groupsifce/static/css/main.c2881ef7.chunk.css.map",
+    "static/css/main.ccbb9a93.chunk.css.map": "/groupsifce/static/css/main.ccbb9a93.chunk.css.map",
     "static/js/2.6e8bf58b.chunk.js.LICENSE.txt": "/groupsifce/static/js/2.6e8bf58b.chunk.js.LICENSE.txt",
     "static/media/App.css": "/groupsifce/static/media/background.0bf28038.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5e0ada5d.js",
     "static/js/2.6e8bf58b.chunk.js",
-    "static/css/main.c2881ef7.chunk.css",
+    "static/css/main.ccbb9a93.chunk.css",
     "static/js/main.bcfb063b.chunk.js"
   ]
 }
