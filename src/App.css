@@ -62,13 +62,12 @@ main {
 
 .container {
   flex-grow: 1;
-  display: flex;
-  justify-content: center;
 }
 
 div.card-list {
   list-style: none;
   display: flex;
+  justify-content: space-between;
   flex-wrap: wrap;
 }
 
